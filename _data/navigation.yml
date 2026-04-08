@@ -1,9 +1,9 @@
 main:
+  - title: "Getting started"
+    url: /getting-started/
+  - title: "Illumina"
+    url: /illumina-sequencing/
   - title: "ONT"
     url: /ONT/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Bioinformatics"
+    url: /bioinformatics/
