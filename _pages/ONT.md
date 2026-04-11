@@ -60,6 +60,7 @@ ONT can produce extremely long reads with the capacity to sequence an entire gen
 
 #### Weaknesses
 * **Bar code bleed through**
+    * Occasionally ONT will sequence reads with unused or previously used barcodes. For this reason it is best to not re-use barcodes on the same flow cell. 
 
 * **High computational resources**
 
