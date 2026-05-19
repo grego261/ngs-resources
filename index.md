@@ -47,8 +47,17 @@ feature_row2:
 ---
 
 # Description
-* Funding Sources
-* Contributions
+This website serves as a reference for the National Animal Health
+Laboratory Network (NAHLN) community to guide Next- and Third-Generation
+Sequencing implementation for animal disease diagnostics and outbreak response.
+
+* **Contributors:** This website has been compiled by leading sequencing and
+bioinformatics experts across NAHLN laboratories including Colorado State
+University Veterinary Diagnostic Laboratory, Michigan State University Veterinary
+Diagnostic Laboratory, Cornell Animal Health Diagnostic Center, and Texas A&M
+Veterinary Diagnostic Laboratory. Please see individual website pages for detailed
+contributor information.
+* **Funding Sources:**
 
 
 ---

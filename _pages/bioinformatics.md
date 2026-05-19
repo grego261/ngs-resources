@@ -16,6 +16,8 @@ An introduction to analyzing NGS data with bioinformatics including programs, wo
 ## 1. Overview
 ### What is bioinformatics?
 
+Bioinformatics is an interdisciplinary field that combines computer science and statistics to analyze and interpret biological datasets. Genomics is a specific branch of bioinformatics that focuses on analyzing DNA sequencing data to glean biologically relevant insights
+
 ### How to do bioinformatic analyses? 
 
 ---

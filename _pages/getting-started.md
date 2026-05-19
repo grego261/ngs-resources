@@ -10,7 +10,7 @@ header:
 ---
 
 # **What is NGS?**
-This is placeholder text. 
+Next Generation Sequencing (NGS) is a high-throughput, massively parallel nucleic acid sequencing technology that allows scientists to study organisms and viruses at the genetic level. In veterinary diagnostics, NGS can be used to identify new and emerging pathogens, study how pathogens are evolving over time, identify genetic markers of antimicrobial resistance, characterize genetic profiles of tumors to tailor patient therapies, and even diagnose rare diseases. Over time, NGS has become faster, more high-throughput, and more cost-effective, making it feasible to utilize this technology in our NAHLN laboratories. 
 
 
 ## **What do I need for NGS?**
