@@ -39,6 +39,92 @@ Platform decisions will depend on use case. Building sequencing capacity without
 * Service contract cost 
 * Anticipated throughput and revenue potential
 
+<table>
+  <tr>
+    <th></th>
+    <th>Illumina</th>
+    <th>Oxford Nanopore</th>
+  </tr>
+
+  <tr>
+    <th>Data Quality</th>
+    <td>High-Quality (>Q30)</td>
+    <td>Medium-Quality (~Q20)</td>
+  </tr>
+
+  <tr>
+    <th>Read Length</th>
+    <td>Short (~50-600bp)</td>
+    <td>Long (10-100kb)</td>
+  </tr>
+
+  <tr>
+    <th>Instrument Price</th>
+    <td>$$$-$$$$</td>
+    <td>$-$$$</td>
+  </tr>
+
+  <tr>
+    <th>Throughput</th>
+    <td>Medium-High (Instrument-Dependent)</td>
+    <td>Low-High (Instrument Dependent)</td>
+  </tr>
+
+  <tr>
+    <th>Availability of Bioinformatics Tools</th>
+    <td>
+      <ul>
+        <li>Very well-established tools and pipelines</li>
+        <li>User-Friendly DRAGEN platform for non-bioinformaticians</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Fewer tools and pipelines compared to Illumina</li>
+        <li>User-friendly EPI2ME platform for non-bioinformaticians</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Strengths</th>
+    <td>
+      <ul>
+        <li>Molecular epi</li>
+        <li>Identification of SNPs</li>
+        <li>Genomic determinants of AMR</li>
+        <li>High-throughput sequencing</li>
+        <li>Great customer support</li>
+        <li>Well-established bioinformatics options</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Resolution of INDELs and repeats</li>
+        <li>Cost-effective low-throughput sequencing</li>
+        <li>Speed of data acquisition</li>
+        <li>Low capital investment</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Weaknesses</th>
+    <td>
+      <ul>
+        <li>Not cost-effective for low-throughput</li>
+        <li>High capital investment</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Lower quality data compared to competitors</li>
+        <li>Fewer bioinformatic tools and pipelines available</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 #### **Other infrastructure considerations**
@@ -51,7 +137,7 @@ Platform decisions will depend on use case. Building sequencing capacity without
 
 
 
-# **How does it all fit together?**
+## **How does it all fit together?**
 
 This is an infographic explaining the general process for NGS workflows. 
 
